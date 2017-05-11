@@ -1,20 +1,25 @@
 body {
-  Backgroud-color: Black;
+  background-color: Black;
   text-align: center;
+  font-family: Verdana;
 }
-h3, h1, h2, a {
-font-family: Verdana;
-color: white
+h3, h1, h2, h3 {
+color: White;
 }
-.download a {
-  color: Aquamarine
-  font-size: 16px
+a {
+  color: Aquamarine;
+  font-size: 16px;
+}
+h1 {
+  font-weight: normal;
+  font-size: 50px;
 }
 h2 {
   font-weight: 300;
   font-size: 42px;
 }
 h3 {
+  font-weight: normal;
   font-size: 21px;
   color: Gray;
 }
